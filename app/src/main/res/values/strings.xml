@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CETis108.4AV_App001</string>
+    <string name="etxtIngresar">Ingresar datos</string>
+    <string name="resultado"></string>
+    <string name="btnContinuar">Continuar</string>
+</resources>
